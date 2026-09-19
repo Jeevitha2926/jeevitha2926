@@ -60,7 +60,7 @@ problems.
 
 ## 📫 Connect With Me
 
-- GitHub: [jeevitha2926](https://github.com/jeevitha2926)## Hi there 👋
+- GitHub: [jeevitha2926](https://github.com/jeevitha2926)## 
 
 <!--
 **Jeevitha2926/jeevitha2926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
